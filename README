@@ -1,0 +1,24 @@
+README
+Wesley Tong
+wtong5
+PA5 - CSE 101
+
+Included:
+
+List.c -- List ADT written by myself, implemented with a doubly linked list. Loosely based on Queue.c, provided
+by Professor.
+
+List.h -- Header file for List.c, with functions provided by professor.
+
+Graph.c-- Graph ADT written by myself, implemented with functions from List ADT as well.
+
+Graph.h -- Header file for Graph.c, with functions provided by professor. Based from pseudocode of CLRS.
+
+GraphTest.c -- Test case file written by myself, for the purpose of testing Graph ADT.
+
+FindComponents.c -- Written by myself, asks for an input and output file and goes through an input file before
+creating a graph of DFS and Transpose.
+
+README -- Description of files
+
+Makefile -- Provided by Professor. Compiles work.
